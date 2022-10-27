@@ -3,6 +3,7 @@
 # DesignPatterns4Devs - Chain of Responsability
 
 Chain se traduz como "cadeia", nos design pattern é a cadeia de responsabilidades de uma lógica!
+No livro do GOF é bem explorado como esse padrão funciona e vou trazer pra você de uma forma mais fluída com vivências da via real de dev que refatorei códigos usando esse padrão. Vale lembrar que esse é o primeiro da classificação dos padrões comportamentais, tendem a ser padrões mais visados em refactorações porém em novas criações.
 Nessa aula você vai aprender na prática com 3 exemplos de grande robustez como implementar esse padrão. É uma aula divida em 2 partes: teoria e prática, porém com o foco bem maior na prática.
 
 
