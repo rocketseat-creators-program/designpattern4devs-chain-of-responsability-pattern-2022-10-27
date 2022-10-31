@@ -19,6 +19,7 @@ Nessa aula você vai aprender na prática com 3 exemplos de grande robustez como
 ![Chain of responsability - Process Service](https://user-images.githubusercontent.com/42419543/198392963-4dd077cb-7185-4e8c-8226-cb7479911256.png)
 
 ## Slides
+https://docs.google.com/presentation/d/1wYvEDt3iZ5Ph15pg9rSqAOkV1YDj3B3xBRp4SGLB2yA/edit?usp=sharing
 
 ## Expert
 | [<img src="https://avatars.githubusercontent.com/u/42419543?v=4" width="75px;"/>](https://github.com/anabneri) |
